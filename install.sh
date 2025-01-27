@@ -40,7 +40,7 @@ echo "--------------------------------------------------"
 echo " "
 
 sudo python3 -m venv .venv
-source ./venv/bin/activate
+source .venv/bin/activate
 
 # confirm virtual environment is activate
 sudo which python
